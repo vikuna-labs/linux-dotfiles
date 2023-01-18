@@ -1,0 +1,6 @@
+i3Status 
+********
+Top bar (on top): workspaces, now playing on mocp, volume, battery, date/time, system tray
+
+Bottom bar (can be overlapped by windows): cpu, ram, hdd, screen brightness, volume (redundant), battery (redundant), temperature, wifi connection, lan connection
+
