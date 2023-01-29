@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Eclipse IDE
+Exec=env GTK_THEME=Adwaita /home/vijaykumarn/Downloads/eclipse/eclipse %u
+NoDisplay=true
+Type=Application
+MimeType=x-scheme-handler/eclipse+command;x-scheme-handler/eclipse+mpc;
+Icon=
+Comment=
+Path=
+Terminal=false
+StartupNotify=false
