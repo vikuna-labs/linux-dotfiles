@@ -64,7 +64,7 @@ systemstl enable NetworkManager
 
 ```thunar pulseaudio pavucontrol```
 
-```lxappearance materia-gtk-theme papirus-icon-theme```
+```lxappearance materia-gtk-theme papirus-icon-theme feh```
 
 ```picom zip unzip```
 
