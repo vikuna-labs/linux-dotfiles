@@ -62,7 +62,7 @@ systemstl enable NetworkManager
 
 ```reboot```
 
-```thunar pulseaudio pavucontrol```
+```thunar pulseaudio pavucontrol xorg-xprop```
 
 ```lxappearance materia-gtk-theme papirus-icon-theme feh```
 
