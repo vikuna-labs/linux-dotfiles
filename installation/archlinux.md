@@ -1,5 +1,17 @@
 # ArchLinux
 
+to reboot into 
+```
+systemctl reboot --firmware-setup 
+```
+
+To update the archinstall to the latest
+
+```
+sudo pacman -Sy archinstall
+```
+
+
 ## Installation
 
 Before proceeding with the installation of archlinux, we need to make sure that we have the internet connection either via ethernet or wifi.
